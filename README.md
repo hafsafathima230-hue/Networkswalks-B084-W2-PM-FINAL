@@ -180,33 +180,7 @@ This project strengthened my understanding of cybersecurity fundamentals, respon
 ---
 
 ## 10. Evidence and Screenshots
-
-### 10.1 Curl
-![Curl](curl.png)
-
-### 10.2 DNSRecon
-![DNSRecon](dnsrecon.png)
-
-### 10.3 NSLookup
-![NSLookup](nslookup.png)
-
-### 10.4 Wafw00f
-![Wafw00f](wafwoof.png)
-
-### 10.5 WhatWeb
-![WhatWeb](whatweb.png)
-
-### 10.6 WHOIS
-![WHOIS](whois-nw.png)
-
-### 10.7 Zenmap Network Topology
-![Zenmap Network Topology](jpeg-optimizer_Zenmap%20Network%20Topology%20Visualization.png)
-
-### 10.8 Zenmap Ping Scan
-![Zenmap Ping Scan](jpeg-optimizer_Zenmap%20Ping%20Scan%20Results.png)
-
-
-## Complete Penetration Testing Report
+ Complete Penetration Testing Report
 
 📄 **Download / View My Report**
 
