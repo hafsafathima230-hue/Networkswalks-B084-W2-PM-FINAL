@@ -95,24 +95,18 @@ The activities included:
 
 **Example network addresses recorded in the practical:**
 
-| Device | IP Address |
-|---|---|
-| Router | 192.168.50.1 |
-| OPPO | 192.168.50.3 |
-| Redmi Note | 192.168.50.4 |
-| Redmi 10A | 192.168.50.6 |
-| Laptop | 192.168.50.8 |
+| Device | IP Address 
 
 **Ping Scan Command:**
 
 ```bash
-nmap -sn 192.168.50.0/24
+nmap -sn 
 ```
 
 **Quick Scan Command:**
 
 ```bash
-nmap -T4 -F 192.168.50.0/24
+nmap -T4 -F 
 ```
 
 The topology view was used to visualize the discovered network devices.
