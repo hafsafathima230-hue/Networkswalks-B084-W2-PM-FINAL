@@ -205,8 +205,14 @@ This project strengthened my understanding of cybersecurity fundamentals, respon
 ### 10.8 Zenmap Ping Scan
 ![Zenmap Ping Scan](jpeg-optimizer_Zenmap%20Ping%20Scan%20Results.png)
 
----
 
+## Complete Penetration Testing Report
+
+📄 **Download / View My Report**
+
+[Click here to view the PDF Report](W2-PM-FINAL%20-%20HF-B084_.pdf)
+---
+**END**
 ## Project Information
   
 **👤 Author:
